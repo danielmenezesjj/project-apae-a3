@@ -1,1 +1,4 @@
-# project-apae-a3
+# Desenvolvimento de software - Projeto APAE
+
+
+## 💡  Ideia: `Game de ritimo`
